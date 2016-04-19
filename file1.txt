@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 New feature!
+=======
+This is a file created by user2
+
+Here is a change added by first_test user
+>>>>>>> origin/master
